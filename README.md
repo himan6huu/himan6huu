@@ -1,43 +1,85 @@
-# Hi there 👋 I'm Himanshu Kumar  
+<h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
+<h3 align="center">🚀 MCA Final Year | 🤖 AI/ML Enthusiast | 💻 Full-Stack Developer</h3>
 
-🎓 MCA Final Year Student | 💻 Aspiring Software Developer | 🤖 AI/ML Enthusiast  
-
----
-
-## 🚀 About Me  
-- 🔭 Currently working on **AI-based projects & Full-Stack Development**  
-- 🌱 Learning **Machine Learning, Flask, and Cloud Deployment**  
-- 👯 Open to collaborate on **Open Source & Innovative Tech Projects**  
-- 💬 Ask me about **Python, AI Projects, Web Development**  
-- ⚡ Fun fact: I enjoy turning ideas into real-world tech solutions  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=himan6huu&label=Profile%20views&color=blueviolet&style=flat" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack  
-**Languages:** Python, Java, C  
-**Web:** HTML, CSS, Flask  
-**Database:** MySQL  
-**Tools:** Git, GitHub, VS Code  
+## 🧠 About Me  
+
+- 🔭 Building **AI-based intelligent systems**
+- 🌱 Exploring **Machine Learning & Cloud Deployment**
+- 👯 Open to **Open Source Collaboration**
+- 💬 Ask me about **Python, AI Projects, Web Apps**
+- ⚡ Passionate about turning ideas into scalable solutions
 
 ---
 
-## 📌 Featured Projects  
+## 🛠️ Tech Arsenal  
 
-### 🤖 AI Disease Prediction System  
-Machine learning-based system that predicts diseases based on symptoms using classification algorithms.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,flask,mysql,git,github,vscode" />
+</p>
 
-### 🎙️ AI Voice Note Summarizer  
-AI-powered application that converts speech to text and summarizes voice notes.
+---
 
-### 🔐 Cryptography & Security Implementations  
-Hands-on implementations of encryption algorithms and security concepts.
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=himan6huu&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himan6huu&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=himan6huu&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=himan6huu&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## 🔥 Featured Projects  
+
+🚑 **AI Disease Prediction System**  
+> Symptom-based ML classification system with Flask deployment.
+
+🎙️ **AI Voice Note Summarizer**  
+> Speech-to-text AI app with automatic summarization.
+
+🔐 **Cryptography & Security Implementations**  
+> Encryption algorithms & applied cybersecurity concepts.
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/himan6huu/himan6huu/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
 ## 📫 Connect With Me  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 📧 Email: your-email@example.com  
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-⭐ *“Code. Learn. Build. Repeat.”*  
+<p align="center">
+  ⭐ <b>"Code. Learn. Build. Repeat."</b> ⭐
+</p>
