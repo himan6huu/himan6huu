@@ -70,11 +70,11 @@
 ## 📫 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/himanshu-kumar-a5241a355/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Himanshu%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:kumarhimanshu4423@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-kumarhimanshu4423%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
