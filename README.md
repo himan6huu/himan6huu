@@ -24,10 +24,10 @@
 - 🔭 Building **AI-based intelligent systems**
 - 🌱 Exploring **Machine Learning & Cloud Deployment**
 - 👯 Open to **Open Source Collaboration**
-- 🎓 **MCA Final Year** @ Magadh University, Bodh Gaya
+- 🎓 **MCA Final Year** @CV Raman Global University, Bhubaneswar
 - 💬 Ask me about **Python, AI Projects, Flask Apps**
 - ⚡ Passionate about turning ideas into scalable solutions
-- 📍 Based in **Bihar, India**
+- 📍 Based in **Bhubaneswar, India**
 
 </td>
 <td width="45%">
