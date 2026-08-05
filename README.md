@@ -1,197 +1,691 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Himanshu%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MCA%20Final%20Year%20%7C%20Data%20Analyst%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<!-- ===================================================== -->
+<!--        GitHub Profile README | Himanshu Kumar         -->
+<!-- ===================================================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Himanshu%20Kumar%20Mahato&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20|%20SQL%20|%20Python%20|%20Power%20BI%20|%20Excel%20|%20R&descAlignY=58&descSize=18" width="100%" />
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&multiline=false&width=600&lines=Data+Analyst+%F0%9F%93%8A;Turning+Data+into+Decisions+%F0%9F%92%A1;SQL+%7C+Python+%7C+Power+BI+%F0%9F%94%8D;Building+Insightful+Dashboards+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+
+<a href="https://git.io/typing-svg">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=850&color=7F77DD&lines=Transforming+Data+into+Business+Insights+📊;SQL+•+Python+•+Power+BI+•+Excel+•+R;Building+Interactive+Business+Dashboards;Exploratory+Data+Analysis+(EDA);Business+Intelligence+%7C+Data+Visualization;Always+Learning.+Always+Building.🚀" />
+
+</a>
+
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=himan6huu&label=Profile+views&color=7F77DD&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/himan6huu?label=Followers&style=flat-square&color=7F77DD" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-7F77DD?style=flat-square" />
-  <img src="https://img.shields.io/badge/Lives-India-7F77DD?style=flat-square" />
+
+<img src="https://komarev.com/ghpvc/?username=himan6huu&style=for-the-badge&color=7F77DD"/>
+
+<img src="https://img.shields.io/github/followers/himan6huu?style=for-the-badge&color=7F77DD"/>
+
+<img src="https://img.shields.io/badge/Focus-Data%20Analytics-blueviolet?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20To-Full--Time%20Roles-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Location-India-orange?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 🧠 About Me
+# 👋 Hello, I'm Himanshu Kumar Mahato
+
+### 📊 Aspiring Data Analyst | Business Intelligence Enthusiast
+
+I enjoy transforming raw datasets into meaningful business insights using **SQL, Python, Power BI, Excel, and R**.
+
+My passion lies in solving real-world business problems through **data analysis, dashboard development, business intelligence, and data visualization**.
+
+I'm currently building a portfolio of analytics projects focused on **Retail, Customer, HR, and Business Analytics** while preparing for full-time opportunities as a **Data Analyst**, **Business Analyst**, or **BI Analyst**.
+
+---
+
+## 💼 Professional Experience
+
+### 📊 Data Analyst Intern — YUVA
+
+**July 2026 – August 2026**
+
+- Comprehensive Data Analysis Reporting and Presentation
+- Data Cleaning & Validation
+- Exploratory Data Analysis (EDA)
+- Dashboard Development
+- Data Visualization
+- Business Reporting
+- Presentation of Analytical Insights
+
+---
+
+### 📊 Data Analytics Intern — Learnova
+
+- Performed exploratory data analysis on structured datasets.
+- Cleaned and transformed business data using Python and SQL.
+- Developed interactive Power BI dashboards with KPI reporting.
+- Applied business analytics concepts to real-world case studies.
+- Documented projects using Git and GitHub.
+
+---
+
+### 🎓 Data Analytics Mentee — LaunchEd Global × Kshitij
+
+- Completed a structured Data Analytics mentorship.
+- Strengthened practical skills in SQL, Python, Power BI, and Excel.
+- Worked on analytics case studies and data-driven problem solving.
+
+---
+
+<!-- ===================================================== -->
+<!--      CORE COMPETENCIES | TECH STACK | LEARNING        -->
+<!-- ===================================================== -->
+
+# 🚀 Core Competencies
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Data%20Cleaning-4285F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-34A853?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Business%20Intelligence-FBBC05?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Dashboard%20Development-EA4335?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Visualization-7F77DD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/KPI%20Reporting-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SQL%20Analytics-1565C0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Business%20Reporting-6A1B9A?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🛠️ Technical Skills
+
+## 👨‍💻 Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+
+</p>
+
+---
+
+## 📊 Business Intelligence & Visualization
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 📚 Python Ecosystem
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
+</p>
+
+---
+
+## ⚙️ Tools & Platforms
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+
+</p>
+
+---
+
+# 🌍 Business Domains
+
+<table>
+
+<tr>
+
+<td align="center">
+
+### 🛒 Retail Analytics
+
+Sales Performance
+
+Customer Behaviour
+
+Product Insights
+
+</td>
+
+<td align="center">
+
+### 👥 Customer Analytics
+
+Segmentation
+
+RFM Analysis
+
+Customer Retention
+
+</td>
+
+<td align="center">
+
+### 📈 Business Intelligence
+
+Dashboards
+
+KPIs
+
+Reporting
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 📊 Data Visualization
+
+Power BI
+
+Excel
+
+Tableau
+
+</td>
+
+<td align="center">
+
+### 🧹 Data Preparation
+
+Cleaning
+
+Validation
+
+Transformation
+
+</td>
+
+<td align="center">
+
+### 🏢 Business Analytics
+
+Decision Support
+
+Trend Analysis
+
+Insights
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🌱 Currently Learning
+
+```text
+📌 Advanced SQL & Query Optimization
+
+📌 ETL Concepts
+
+📌 Data Warehousing
+
+📌 Advanced Power BI & DAX
+
+📌 R for Data Analysis
+
+📌 Business Intelligence Reporting
+
+📌 Dashboard Design Best Practices
+
+📌 Statistical Analysis for Business
+```
+
+---
+
+# 🎯 Career Objective
+
+> My goal is to build scalable, data-driven solutions that transform raw information into meaningful business insights. I enjoy solving analytical problems through SQL, Python, Power BI, Excel, and R, and I'm continuously expanding my expertise in Business Intelligence, ETL, and Data Warehousing to become a well-rounded Data Analyst.
+
+---
+
+<!-- ===================================================== -->
+<!--                FEATURED ANALYTICS PROJECTS             -->
+<!-- ===================================================== -->
+
+# 🚀 Featured Analytics Projects
+
+> Every project demonstrates my ability to solve business problems through data cleaning, SQL analysis, visualization, dashboard development, and business intelligence.
+
+---
 
 <table>
 <tr>
-<td width="55%">
 
-- 📊 Passionate about **transforming raw data into actionable insights**
-- 🌱 Exploring **Advanced Analytics, Machine Learning & Cloud BI Tools**
-- 👯 Open to **Open Source Collaboration & Data Projects**
-- 🎓 **MCA Final Year** @CV Raman Global University, Bhubaneswar
-- 💬 Ask me about **Python, SQL, Data Visualization, EDA**
-- ⚡ Love uncovering patterns hidden in messy datasets
-- 📍 Based in **Bhubaneswar, India**
+<td width="50%" valign="top">
+
+## 📊 Retail Sales Analytics Dashboard
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+
+### 🎯 Business Problem
+
+Analyze retail sales data to uncover revenue trends, customer purchasing behavior, and product performance.
+
+### 📌 Key Features
+
+- 📈 Interactive KPI Dashboard
+- 📊 Sales & Profit Analysis
+- 🛒 Product Performance
+- 👥 Customer Analysis
+- 🌍 Regional Sales Trends
+- 📉 Time-Series Analysis
+
+### 💡 Business Insights
+
+- Identified high-performing products
+- Compared regional sales performance
+- Tracked monthly revenue trends
+- Improved KPI visibility through dashboards
+
+<p align="center">
+
+<a href="https://github.com/himan6huu/Retail-Sales-EDA">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 </td>
-<td width="45%">
 
-**⚡ Quick Stats**
+<td width="50%" valign="top">
 
-| | |
-|---|---|
-| 🔥 Current Project | Sales Trend Analysis Dashboard |
-| 📚 Currently Learning | Power BI & AWS Quicksight |
-| 🤝 Looking For | Data Analyst Internship / Collab |
-| 💡 Fun Fact | I `GROUP BY` everything in real life 😄 |
-| 🎯 2025 Goal | Ship 5 end-to-end data projects |
+## 👥 Customer Segmentation Analysis
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+
+### 🎯 Business Problem
+
+Segment customers based on purchasing behavior to support targeted marketing strategies.
+
+### 📌 Key Features
+
+- 🧹 Data Cleaning
+- 📊 Exploratory Data Analysis
+- 📈 RFM Analysis
+- 🤖 K-Means Clustering
+- 📉 Cluster Visualization
+- 💡 Business Recommendations
+
+### 💡 Business Insights
+
+- Identified high-value customers
+- Detected at-risk customer groups
+- Supported personalized marketing strategies
+
+<p align="center">
+
+<a href="https://github.com/himan6huu">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Arsenal
-
-**Languages & Query**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql" />
-  &nbsp;<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" height="48"/>
-  &nbsp;<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" height="48"/>
-</p>
-
-**Data & Visualization**
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-</p>
-
-**ML & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-  &nbsp;<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  &nbsp;<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himan6huu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himan6huu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=himan6huu&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himan6huu&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=himan6huu&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4"/>
-</p>
-
----
-
-## 🔥 Featured Projects
-
 <table>
 <tr>
-<td width="50%">
 
-### 📈 Sales Trend Analysis Dashboard
-End-to-end EDA and interactive Power BI dashboard revealing revenue patterns, customer segments, and KPI trends from raw sales data.
+<td width="50%" valign="top">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+## 📉 Data Cleaning & EDA using R
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/himan6huu)
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/tidyverse-1A162D?style=flat-square"/>
+<img src="https://img.shields.io/badge/ggplot2-E84A5F?style=flat-square"/>
 
-</td>
-<td width="50%">
+### 🎯 Business Problem
 
-### 🏥 AI Disease Prediction System
-Symptom-based ML classification with data preprocessing pipelines, feature engineering, and a Flask web interface.
+Transform raw datasets into clean, analysis-ready data for business reporting.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+### 📌 Key Features
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/himan6huu)
+- Missing Value Treatment
+- Outlier Detection
+- Feature Engineering
+- Exploratory Data Analysis
+- Correlation Analysis
+- Data Visualization
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+### 💡 Business Insights
 
-### 🛒 Customer Segmentation Analysis
-RFM analysis and K-Means clustering to identify distinct customer segments and drive targeted business strategies.
+- Improved data quality
+- Generated statistical summaries
+- Produced visual insights using ggplot2
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<p align="center">
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/himan6huu)
+<a href="https://github.com/himan6huu">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
 
-</td>
-<td width="50%">
-
-### 🌐 More Projects...
-Actively building and shipping data projects. Check my repositories for the latest work.
-
-[![All Repos](https://img.shields.io/badge/All%20Repos-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/himan6huu?tab=repositories)
+</p>
 
 </td>
+
+<td width="50%" valign="top">
+
+## 🏥 Disease Prediction System
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+
+### 🎯 Business Problem
+
+Predict likely diseases based on patient symptoms using machine learning.
+
+### 📌 Key Features
+
+- Random Forest Classifier
+- Feature Engineering
+- Flask Web Application
+- Prediction Dashboard
+- Model Evaluation
+- Confidence Scores
+
+### 💡 Business Insights
+
+- Built an end-to-end ML application
+- Automated symptom-based prediction workflow
+- Developed an interactive web interface
+
+<p align="center">
+
+<a href="https://github.com/himan6huu/Disease_Predictor">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-## 🐍 Contribution Snake
+# 📌 Upcoming Analytics Projects
+
+| 🚀 Project | Tech Stack |
+|------------|------------|
+| 📊 HR Analytics Dashboard | Power BI • Excel |
+| 📈 Supply Chain Dashboard | Power BI • SQL |
+| 🗄 SQL Business Analytics Case Study | MySQL |
+| 📉 Advanced Data Cleaning in R | R • tidyverse |
+| 📋 Executive Sales Dashboard | Excel • Power BI |
+| 📦 Data Warehousing Practice | SQL • ETL |
+
+---
+
+> **"I believe great analytics is not just about creating dashboards—it's about helping businesses make better decisions through data."**
+
+---
+
+<!-- ===================================================== -->
+<!--         EXPERIENCE | CERTIFICATIONS | ANALYTICS       -->
+<!-- ===================================================== -->
+
+# 💼 Professional Journey
+
+```text
+July 2026 ───────────────────────────────────────────── Present
+
+📊 Data Analyst Intern
+YUVA Internship
+│
+├── Comprehensive Data Analysis Reporting
+├── Dashboard Development
+├── Data Cleaning & Validation
+├── Exploratory Data Analysis (EDA)
+├── Business Reporting
+└── Presentation of Analytical Insights
+
+
+Earlier
+
+📈 Data Analytics Intern
+Learnova
+│
+├── SQL Analytics
+├── Power BI Dashboards
+├── Data Cleaning
+├── Business Intelligence
+└── GitHub Documentation
+
+
+🎓 Data Analytics Mentee
+LaunchEd Global × Kshitij
+│
+├── SQL
+├── Python
+├── Excel
+├── Power BI
+└── Industry Case Studies
+```
+
+---
+
+# 🏆 Professional Certifications
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/himan6huu/himan6huu/output/github-contribution-grid-snake-dark.svg" />
+
+<img src="https://img.shields.io/badge/Learnova-Data%20Analytics%20Internship-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LaunchEd-Data%20Analytics-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/YUVA-Data%20Analyst-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20Simulation-purple?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 💬 Dev Quote of the Day
+# 🌱 Currently Learning
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 📊 Data Analytics
+
+- Advanced SQL
+- Query Optimization
+- Statistical Analysis
+- Data Cleaning
+- Business Intelligence
+
+</td>
+
+<td width="50%">
+
+### 📈 Business Intelligence
+
+- Power BI Service
+- DAX
+- ETL Pipelines
+- Data Warehousing
+- Dashboard Design
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🎯 2026 Goals
+
+<table>
+
+<tr>
+
+<td>
+
+✅ Build 10+ Analytics Projects
+
+</td>
+
+<td>
+
+✅ Master SQL
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+✅ Advanced Power BI
+
+</td>
+
+<td>
+
+✅ Become Job Ready
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+✅ Open Source Contributions
+
+</td>
+
+<td>
+
+✅ Secure Data Analyst Role
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=himan6huu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himan6huu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://streak-stats.demolab.com?user=himan6huu&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📫 Connect With Me
+# 📈 GitHub Highlights
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/himanshu-kumar-a5241a355/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Himanshu%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:kumarhimanshu4423@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-kumarhimanshu4423%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/himan6huu" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-himan6huu-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+| 📂 Repositories | ⭐ Focus |
+|:---------------:|:--------:|
+| **14+** | Analytics Projects |
+| **SQL** | Business Analytics |
+| **Power BI** | Dashboard Development |
+| **Python** | Data Analysis & Automation |
+| **R** | Data Cleaning & EDA |
+
+</div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+# 🤝 Open to Opportunities
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Analyze.%20Visualize.%20Decide.%20Repeat.&author=Himanshu%20Kumar" />
-</p>
+I'm actively looking for opportunities in:
+
+- 📊 Data Analyst
+- 📈 Business Analyst
+- 📉 Business Intelligence Analyst
+- 📋 Reporting Analyst
+- 📑 MIS Analyst
+
+I enjoy working on projects that transform data into actionable business insights and help organizations make informed decisions.
+
+---
